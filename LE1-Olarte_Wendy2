@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main() {
+    printf("  .==============================.\n");
+    printf(" /     C;\\> SYSTEM STARTING...    \\\n");
+    printf("/==================================\\\n");
+    printf("│                                  │\n");
+    printf("│    WELCOME, FUTURE PROGRAMMER!   │\n");
+    printf("│                                  │\n");
+    printf("│         Code your ideas.         │\n");
+    printf("│         Build your future.       │\n");
+    printf("│                                  │\n");
+    printf("│        > READY TO BEGIN_         │\n");
+    printf("│                                  │\n");
+    printf("------------------------------------\n");
+    printf("│         IT1R14 │ 1st YEAR        │\n");
+    printf("------------------------------------\n");
+
+    return 0;
+}
